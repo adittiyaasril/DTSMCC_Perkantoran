@@ -9,7 +9,7 @@ namespace DTSMCC_Perkantoran
             Console.WriteLine("Nama Karyawan : ");
 
             //Looping Pegawai
-            string[] NamaPegawai = { "Agus", "Susanti", "Patrick", "Mukidi" };
+            string[] NamaPegawai = { "Agus", "Susanti", "Patrick", "Kamil" };
             foreach (string i in NamaPegawai)
             {
                 Console.WriteLine(i);
